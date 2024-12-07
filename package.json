@@ -1,0 +1,35 @@
+{
+  "name": "mittu",
+  "module": "./src/index.js",
+  "type": "module",
+  "keywords": [
+    "discord-js",
+    "mittu",
+    "handler",
+    "discord-bot",
+    "devify-studio",
+    "devify",
+    "javascript"
+  ],
+  "author": {
+    "name": "Yagna R.D. Khokhariya",
+    "url": "https://github.com/YagnaRDK",
+    "email": "yagna.r.d.khokhariya@gmail.com"
+  },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/YagnaRDK/Mittu.git"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "ms": "^2.1.3"
+  }
+}

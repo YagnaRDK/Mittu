@@ -1,0 +1,17 @@
+{
+  "DEVS": ["1051466601725182053"],
+
+  "COLOR": 15792008,
+  "WRONGCOLOR": 16711680,
+  "SUCCESSCOLOR": 458496,
+
+  "FOOTER_ICON": "https://media.discordapp.net/attachments/1060915530762027021/1312670658144239687/gaK1Jey.png?ex=674d5751&is=674c05d1&hm=1ef3615764ad9218b40d2629b5b44f7b76ba3f93a272c4c5d9662b467c243d68&=",
+  "FOOTER_TEXT": "Mittu ~ Handler | By: Devify Studio™\n—— YagnaRDK",
+  "THUMBNAIL": "https://media.discordapp.net/attachments/1060915530762027021/1312670616205262858/p0Z59J9.png?ex=674d5747&is=674c05c7&hm=7d342604bdb1c49d29fc21ff2b2d754b453ebd9c88da42d26d118a8bc5dcf808&=",
+
+  "EMOJIS": {
+    "success": "✅",
+    "wrong": "❎",
+    "error": "⚠️"
+  }
+}
