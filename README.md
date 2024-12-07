@@ -15,6 +15,13 @@ The template has logging system, for console, and for crash reports. Where crash
 
 _Feel free to explore different parts of this templete and get that thrill of finding out its' workings (disclaimer: it is super simple!)_
 
+**Once you got everything in place, run the following commands one by one, and keep building different commands and most importantly, have fun!**
+
+```
+bun install
+bun .
+```
+
 <details>
 <summary>This template includes three distinct operational modes: <b>Testing Mode</b>, <b>Production Mode</b>, and <b>Maintenance Mode</b>. Each mode is designed to streamline development, deployment, and user experience. Below is a detailed explanation of each mode to help you understand their purposes and functionalities.</summary>
 
